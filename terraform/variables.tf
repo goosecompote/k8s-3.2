@@ -68,7 +68,7 @@ variable "username" {
 
 variable "ssh_public_key" {
   type    = string
-  default = "~/.ssh/id_ed25519.pub"
+  default = "~/.ssh/for_yandex.pub"
 }
 
 #master
